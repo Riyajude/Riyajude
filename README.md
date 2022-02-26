@@ -18,6 +18,7 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e47eedmlpr6kmpgg0dx4d2wvsva1s432oelpltpkya8&rid=200w.webp&ct=s" width="600" height="300"/>
 </div>
+  
 ---
 
 ### :woman_technologist: About Me :
@@ -28,6 +29,7 @@
 - :zap: In my free time, I do coding.
 
 - :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/riya-mary-jude-54833a22b)
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,6 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+  
 ---
 
 ### :fire: My Stats :
