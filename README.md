@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/L3nWlmgyqCeU8/200w.webp?cid=ecf05e47tzp7ed6z4hdiku2c3w88z17u5vnxld6twnlhrk6t&rid=200w.webp&ct=g">
 <div>
 <div id="badges">
-  <a href="www.linkedin.com/in/riya-mary-jude-54833a22b">
+  <a href="https://www.linkedin.com/in/riya-mary-jude-54833a22b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/_ri.yu.ga__/">
@@ -28,7 +28,7 @@
 
 - :zap: In my free time, I do coding.
 
-- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/riya-mary-jude-54833a22b)
+- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-mary-jude-54833a22b/)
   
 ---
 
