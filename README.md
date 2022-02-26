@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/L3nWlmgyqCeU8/200w.webp?cid=ecf05e47tzp7ed6z4hdiku2c3w88z17u5vnxld6twnlhrk6t&rid=200w.webp&ct=g">
+<div>
+<div id="badges">
+  <a href="www.linkedin.com/in/riya-mary-jude-54833a22b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_ri.yu.ga__/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
+</div>
+<img src="https://komarev.com/ghpvc/?username=Riyajude&style=flat-square&color=blue" alt=""/>
+<h1>
+  Hey there, I am Riya Mary Jude
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e47eedmlpr6kmpgg0dx4d2wvsva1s432oelpltpkya8&rid=200w.webp&ct=s" width="600" height="300"/>
+</div>
+---
 
-You can use the [editor on GitHub](https://github.com/Riyajude/Riyajude/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### :woman_technologist: About Me :
+- :telescope: I am a student at Model Engineering College pursuing BTECH in Computer Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- :seedling: Exploring various technologies.
 
-### Markdown
+- :zap: In my free time, I do coding.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/riya-mary-jude-54833a22b)
+---
 
-```markdown
-Syntax highlighted code block
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Riyajude/Riyajude/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Riyajude&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajude)](https://github.com/Riyajude/github-readme-stats)
