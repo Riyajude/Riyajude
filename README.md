@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/L3nWlmgyqCeU8/200w.webp?cid=ecf05e47tzp7ed6z4hdiku2c3w88z17u5vnxld6twnlhrk6t&rid=200w.webp&ct=g">
-<div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/riya-mary-jude-54833a22b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +6,6 @@
   <a href="https://www.instagram.com/_ri.yu.ga__/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  
 </div>
 <img src="https://komarev.com/ghpvc/?username=Riyajude&style=flat-square&color=blue" alt=""/>
 <h1>
